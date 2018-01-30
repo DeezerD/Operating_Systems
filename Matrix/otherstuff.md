@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html>
 <body>
     <head>
     <meta charset="utf-8"/>
-    <title>Deirdre Moran</title>
-  <h1>Deirdre Moran </h1>
+    <title>Other Stuff</title>
+  <h1>Yep, other stuff</h1>
 </head> 
 </body>
 </html>
